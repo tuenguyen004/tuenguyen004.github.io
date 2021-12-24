@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3d-design on Tue Nguyen&#39;s Portfolio</title>
+    <link>https://tuenguyen004.github.io/tags/3d-design/</link>
+    <description>Recent content in 3d-design on Tue Nguyen&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tuenguyen004.github.io/tags/3d-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experience Title Here</title>
+      <link>https://tuenguyen004.github.io/experience/exp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tuenguyen004.github.io/experience/exp1/</guid>
+      <description>Write something here. Max two columns of pictures
+Remember to write closing words</description>
+      <content>&lt;p&gt;Write something here. Max two columns of pictures&lt;/p&gt;
+&lt;p&gt;
+  &lt;figure class=&#34;right&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/experience/exp1/me123.jpg&#34;  alt=&#34;MarCO Operations Team in the SFOC &amp;#39;Dark Room&amp;#39;&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+
+  &lt;figure class=&#34;left&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/experience/exp1/me123.jpg&#34;  alt=&#34;MarCO Operations Team in the SFOC &amp;#39;Dark Room&amp;#39;&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Remember to write closing words&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Project Title Here</title>
+      <link>https://tuenguyen004.github.io/projects/proj1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tuenguyen004.github.io/projects/proj1/</guid>
+      <description>Write something here.
+Links:  Project Github (sample)  Remember to write closing words</description>
+      <content>&lt;p&gt;Write something here.&lt;/p&gt;
+&lt;h4 id=&#34;links&#34;&gt;Links:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tuenguyen004&#34;&gt;Project Github (sample)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Remember to write closing words&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

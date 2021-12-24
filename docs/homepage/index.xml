@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepages on Tue Nguyen&#39;s Portfolio</title>
+    <link>https://tuenguyen004.github.io/homepage/</link>
+    <description>Recent content in Homepages on Tue Nguyen&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tuenguyen004.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://tuenguyen004.github.io/homepage/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tuenguyen004.github.io/homepage/about/</guid>
+      <description>Hi there 👋! My name is Tue (pronounce like 2A) Nguyen!
+I am a Mechanical Engineering &amp;amp; Computer Science student at Tufts University&amp;rsquo;s Class of 2023 🐘🐘🐘.
+My interests are focused in electromechanical design, 3D modeling, and anything related to robotics! Outside of hardware development, I love spending time outdoors, vibing to R&amp;amp;B/Hip-Hop music, and cooking all kinds of healthy dishes!
+Resume (not linked yet) • Github • Linkedin</description>
+      <content>&lt;p&gt;&lt;strong&gt;Hi there 👋!&lt;/strong&gt; My name is &lt;code&gt;Tue (pronounce like 2A) Nguyen&lt;/code&gt;!&lt;/p&gt;
+&lt;p&gt;I am a Mechanical Engineering &amp;amp; Computer Science student at Tufts University&amp;rsquo;s Class of 2023 🐘🐘🐘.&lt;/p&gt;
+&lt;p&gt;My interests are focused in electromechanical design, 3D modeling, and anything related to robotics! 
+Outside of hardware development, I love spending time outdoors, &lt;strong&gt;vibing&lt;/strong&gt; to R&amp;amp;B/Hip-Hop music, and cooking all kinds of healthy dishes!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/tuenguyen004&#34;&gt;Resume (not linked yet)&lt;/a&gt; • &lt;a href=&#34;https://github.com/tuenguyen004&#34;&gt;Github&lt;/a&gt; • &lt;a href=&#34;https://www.linkedin.com/in/tue-hm-nguyen/&#34;&gt;Linkedin&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tuenguyen004.github.io/homepage/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tuenguyen004.github.io/homepage/contact/</guid>
+      <description>I am currently seeking for internship opportunities in Summer 2022 to expand my knowledge and experience. My inbox is always open, so feel free to reach out and say hello! I&amp;rsquo;m always looking for new projects, and would love to collaborate on something cool!
+ Github: https://github.com/tuenguyen004 Linkedin: https://www.linkedin.com/in/tue-hm-nguyen/ Email Address: tue.nguyen@tufts.edu  </description>
+      <content>&lt;p&gt;I am currently seeking for &lt;strong&gt;internship opportunities in Summer 2022&lt;/strong&gt; to expand my knowledge and experience. 
+My inbox is always open, so feel free to reach out and say hello! I&amp;rsquo;m always looking for new projects, and would love to collaborate on something cool!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Github&lt;/code&gt;: &lt;a href=&#34;https://github.com/tuenguyen004&#34;&gt;https://github.com/tuenguyen004&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Linkedin&lt;/code&gt;: &lt;a href=&#34;https://www.linkedin.com/in/tue-hm-nguyen/&#34;&gt;https://www.linkedin.com/in/tue-hm-nguyen/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Email Address&lt;/code&gt;: &lt;a href=&#34;mailto:tue.nguyen@tufts.edu&#34;&gt;tue.nguyen@tufts.edu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://tuenguyen004.github.io/homepage/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tuenguyen004.github.io/homepage/education/</guid>
+      <description>Tufts University, School of Engineering B.S. Mechanical Engineering (minor in Computer Science) • Sep 2019 - May 2023
+ Electromechanical Systems: Design and analysis of PCB and electrical components; use of sensors, feedback controllers, and actuators for hardware implementation; oscilloscopes and computer tools to test and debug circuits; modeling and control of dynamic systems    Robotics: Introduction to controls, image processing, sensor development, filtering, and state machines; basic concepts from circuit theory, artificial intelligence, microprocessor control and physical design used in basic robotics competition</description>
+      <content>&lt;h2 id=&#34;tufts-university-school-of-engineering&#34;&gt;Tufts University, School of Engineering&lt;/h2&gt;
+&lt;p&gt;B.S. Mechanical Engineering (minor in Computer Science) • Sep 2019 - May 2023&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Electromechanical Systems&lt;/code&gt;: Design and analysis of PCB and electrical components; use of sensors, feedback controllers, and actuators for hardware implementation; oscilloscopes and computer tools to test and debug circuits; modeling and control of dynamic systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Robotics&lt;/code&gt;: Introduction to controls, image processing, sensor development, filtering, and state machines; basic concepts from circuit theory, artificial intelligence, microprocessor control and physical design used in basic robotics competition&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Mechanics&lt;/code&gt;: Equilibrium FBD of static and dynamic particles and rigid bodies; stress and strain of static members under various loadings; kinematics and kinetics of bodies in 2D and 3D plane motion; momentum-impulse and work-energy theorems for dynamic systems&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Materials &amp;amp; Manufacturing&lt;/code&gt;: Principles identification/selection of materials and manufacturing processes; microstructures and properties characterization; mechanisms of structural modification and testing methods; CAD and engineering drawings of parts and assemblies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Engineering Design&lt;/code&gt;: Failure theories and safety criteria under loading conditions; FEA simulation and Castiliagno&amp;rsquo;s Theorem; introductory analysis of machine design elements; user-centric ideation and engineering decision-making; working with vendors and clients to communicate designs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Thermal Fluid Systems&lt;/code&gt;: Application of thermodynamic reasoning to system design; classical fluid mechanics and heat transfer in various conditions; fluid properties and analysis of different systems and flows;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Computer Science&lt;/code&gt;: Data structures and algorithms in C++ such as linked lists, trees, graphs, dynamic storage allocation, and recursion; machine-level concepts in C and assembly code including memory, cache, registers, machine arithmetic, and bitwise operations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Senior Design Project&lt;/code&gt;: To Be Updated&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://tuenguyen004.github.io/homepage/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tuenguyen004.github.io/homepage/skills/</guid>
+      <description>3D CAD modeling with SolidWorks, Fusion 360, AutoCAD, and Onshape Proficient in hardware design and fabrication using 3D printers and machine shop techniques Hardware design of PCB layouts with KiCAD C/C++ and Python for hardware applications using Arduino and Raspberry Pi Experience with electromechanical systems, particularly: IoT devices and robots. 2D vector prototyping with Figma, Inkscape, and Adobe Illsutrator  View my projects and experiences sorted by tags!</description>
+      <content>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tuenguyen004.github.io/tags/3d-design/&#34;&gt;3D CAD modeling&lt;/a&gt; with SolidWorks, Fusion 360, AutoCAD, and Onshape&lt;/li&gt;
+&lt;li&gt;Proficient in &lt;a href=&#34;https://tuenguyen004.github.io/tags/hardware-design/&#34;&gt;hardware design&lt;/a&gt; and &lt;a href=&#34;https://tuenguyen004.github.io/tags/fabrication/&#34;&gt;fabrication&lt;/a&gt; using 3D printers and machine shop techniques&lt;/li&gt;
+&lt;li&gt;Hardware design of &lt;a href=&#34;https://tuenguyen004.github.io/tags/pcb-design/&#34;&gt;PCB layouts&lt;/a&gt; with KiCAD&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tuenguyen004.github.io/tags/c/c++/&#34;&gt;C/C++&lt;/a&gt; and &lt;a href=&#34;https://tuenguyen004.github.io/tags/python/&#34;&gt;Python&lt;/a&gt; for hardware applications using &lt;a href=&#34;https://tuenguyen004.github.io/tags/arduino/&#34;&gt;Arduino&lt;/a&gt; and &lt;a href=&#34;https://tuenguyen004.github.io/tags/raspberry-pi/&#34;&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Experience with electromechanical systems, particularly: &lt;a href=&#34;https://tuenguyen004.github.io/tags/iot-devices/&#34;&gt;IoT devices&lt;/a&gt; and &lt;a href=&#34;https://tuenguyen004.github.io/tags/robotics/&#34;&gt;robots&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tuenguyen004.github.io/tags/2d-design/&#34;&gt;2D vector prototyping&lt;/a&gt; with Figma, Inkscape, and Adobe Illsutrator&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://tuenguyen004.github.io/tags&#34;&gt;View my projects and experiences sorted by tags!&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

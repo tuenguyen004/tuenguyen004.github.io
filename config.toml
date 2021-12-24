@@ -1,0 +1,62 @@
+baseurl = "https://tuenguyen004.github.io/"
+publishDir = "docs"
+languageCode = "en-us"
+theme = "hugo-theme-terminal"
+paginate = 10
+
+[params]
+  contentTypeName = "experience"
+  themeColor = "orange"
+  showMenuItems = 6
+  fullWidthTheme = false
+  # favicon = "favicon.ico"
+  centerTheme = true
+  singlePageSite = true
+
+
+[languages]
+    [languages.en]
+        title = "Tue Nguyen's Portfolio"
+        subtitle = ""
+        keywords = ""
+        copyright = ""
+        menuMore = "Show more"
+        readMore = "Read more"
+        readOtherPosts = "Read other posts"
+
+        [languages.en.params.logo]
+        logoText = "Tue Nguyen / Hardware Engineer"
+        logoSplit = " / "   # Places logo text blocks in to spans so they wrap nicely
+        logoHomeLink = "/"
+
+        [languages.en.menu]
+        [[languages.en.menu.main]]
+            identifier = "about"
+            name = "About"
+            url = "/#about"
+            weight = 1
+        [[languages.en.menu.main]]
+            identifier = "skills"
+            name = "Skills"
+            url = "/#skills"
+            weight = 2
+        [[languages.en.menu.main]]
+            identifier = "experience"
+            name = "Experience"
+            url = "/experience"
+            weight = 3
+        [[languages.en.menu.main]]
+            identifier = "projects"
+            name = "Projects"
+            url = "/projects"
+            weight = 4
+        [[languages.en.menu.main]]
+            identifier = "education"
+            name = "Education"
+            url = "/#education"
+            weight = 5
+        [[languages.en.menu.main]]
+            identifier = "contact"
+            name = "Contact"
+            url = "/#contact"
+            weight = 6
