@@ -1,6 +1,6 @@
 +++
 title = "Skills"
-cover = "homepage/autolabel-hardware-skills.jpg"
+cover = "homepage/robot-hardware-skills.jpg"
 layout = "2col-left"
 +++
 

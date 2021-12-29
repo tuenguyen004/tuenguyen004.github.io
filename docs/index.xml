@@ -12,15 +12,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tuenguyen004.github.io/homepage/about/</guid>
-      <description>Hi there 👋! My name is Tue (pronounce like 2A) Nguyen!
+      <description>Hi there! My name is Tue Nguyen (pronounce like 2A nu-win) 
 I am a Mechanical Engineering &amp;amp; Computer Science student at Tufts University&amp;rsquo;s Class of 2023 🐘🐘🐘.
-My interests are focused in electromechanical design, 3D modeling, and anything related to robotics! Outside of hardware development, I love spending time outdoors, vibing to R&amp;amp;B/Hip-Hop music, and cooking all kinds of healthy dishes!
-Resume (not linked yet) • Github • Linkedin</description>
-      <content>&lt;p&gt;&lt;strong&gt;Hi there 👋!&lt;/strong&gt; My name is &lt;code&gt;Tue (pronounce like 2A) Nguyen&lt;/code&gt;!&lt;/p&gt;
+My interests are focused in electromechanical design, 3D modeling, and anything related to robotics. Outside of hardware development, I love spending time outdoors, vibing to R&amp;amp;B/Hip-Hop music, and cooking all kinds of healthy dishes!
+Resume • Github • Linkedin</description>
+      <content>&lt;p&gt;&lt;strong&gt;Hi there!&lt;/strong&gt; My name is &lt;code&gt;Tue Nguyen (pronounce like 2A nu-win) &lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;I am a Mechanical Engineering &amp;amp; Computer Science student at Tufts University&amp;rsquo;s Class of 2023 🐘🐘🐘.&lt;/p&gt;
-&lt;p&gt;My interests are focused in electromechanical design, 3D modeling, and anything related to robotics! 
+&lt;p&gt;My interests are focused in electromechanical design, 3D modeling, and anything related to robotics. 
 Outside of hardware development, I love spending time outdoors, &lt;strong&gt;vibing&lt;/strong&gt; to R&amp;amp;B/Hip-Hop music, and cooking all kinds of healthy dishes!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/tuenguyen004&#34;&gt;Resume (not linked yet)&lt;/a&gt; • &lt;a href=&#34;https://github.com/tuenguyen004&#34;&gt;Github&lt;/a&gt; • &lt;a href=&#34;https://www.linkedin.com/in/tue-hm-nguyen/&#34;&gt;Linkedin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Sx84Xc2-MElP6AHP3IdRcKy1m9e0xDXs/view?usp=sharing&#34;&gt;Resume&lt;/a&gt; • &lt;a href=&#34;https://github.com/tuenguyen004&#34;&gt;Github&lt;/a&gt; • &lt;a href=&#34;https://www.linkedin.com/in/tue-hm-nguyen/&#34;&gt;Linkedin&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     
@@ -30,14 +30,14 @@ Outside of hardware development, I love spending time outdoors, &lt;strong&gt;vi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tuenguyen004.github.io/homepage/contact/</guid>
-      <description>I am currently seeking for internship opportunities in Summer 2022 to expand my knowledge and experience. My inbox is always open, so feel free to reach out and say hello! I&amp;rsquo;m always looking for new projects, and would love to collaborate on something cool!
- Github: https://github.com/tuenguyen004 Linkedin: https://www.linkedin.com/in/tue-hm-nguyen/ Email Address: tue.nguyen@tufts.edu  </description>
+      <description>I am currently seeking for internship opportunities in Summer 2022 to expand my knowledge and experience. Feel free to reach out and say hello! I&amp;rsquo;m always looking for new projects, and would love to collaborate on something cool!
+ Github: https://github.com/tuenguyen004 Linkedin: https://www.linkedin.com/in/tue-hm-nguyen/ Email Address: tue.nguyen004@gmail.com  </description>
       <content>&lt;p&gt;I am currently seeking for &lt;strong&gt;internship opportunities in Summer 2022&lt;/strong&gt; to expand my knowledge and experience. 
-My inbox is always open, so feel free to reach out and say hello! I&amp;rsquo;m always looking for new projects, and would love to collaborate on something cool!&lt;/p&gt;
+Feel free to reach out and say hello! I&amp;rsquo;m always looking for new projects, and would love to collaborate on something cool!&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Github&lt;/code&gt;: &lt;a href=&#34;https://github.com/tuenguyen004&#34;&gt;https://github.com/tuenguyen004&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;Linkedin&lt;/code&gt;: &lt;a href=&#34;https://www.linkedin.com/in/tue-hm-nguyen/&#34;&gt;https://www.linkedin.com/in/tue-hm-nguyen/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Email Address&lt;/code&gt;: &lt;a href=&#34;mailto:tue.nguyen@tufts.edu&#34;&gt;tue.nguyen@tufts.edu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Email Address&lt;/code&gt;: &lt;a href=&#34;mailto:tue.nguyen004@gmail.com&#34;&gt;tue.nguyen004@gmail.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     </item>
@@ -49,9 +49,28 @@ My inbox is always open, so feel free to reach out and say hello! I&amp;rsquo;m 
       
       <guid>https://tuenguyen004.github.io/homepage/education/</guid>
       <description>Tufts University, School of Engineering B.S. Mechanical Engineering (minor in Computer Science) • Sep 2019 - May 2023
- Electromechanical Systems: Design and analysis of PCB and electrical components; use of sensors, feedback controllers, and actuators for hardware implementation; oscilloscopes and computer tools to test and debug circuits; modeling and control of dynamic systems    Robotics: Introduction to controls, image processing, sensor development, filtering, and state machines; basic concepts from circuit theory, artificial intelligence, microprocessor control and physical design used in basic robotics competition</description>
+ Mechanics: Equilibrium FBD of static and dynamic particles and rigid bodies; stress and strain of static members under various loadings; kinematics and kinetics of bodies in 2D and 3D plane motion; momentum-impulse and work-energy theorems for dynamic systems   Engineering Design: Failure theories and safety criteria under loading conditions; FEA simulation and Castiliagno&amp;rsquo;s Theorem; introductory analysis of machine design elements; user-centric ideation and engineering decision-making; working with vendors and clients to communicate designs   Materials &amp;amp; Manufacturing: Principles identification/selection of materials and manufacturing processes; microstructures and properties characterization; mechanisms of structural modification and testing methods; CAD and engineering drawings of parts and assemblies   Thermal Fluid Systems: Application of thermodynamic reasoning to system design; classical fluid mechanics and heat transfer in various conditions; fluid properties and analysis of different systems and flows;   Electromechanical Systems: Design and analysis of PCB and electrical components; use of sensors, feedback controllers, and actuators for hardware implementation; oscilloscopes and computer tools to test and debug circuits; modeling and control of dynamic systems    Robotics: Introduction to controls, image processing, sensor development, filtering, and state machines; basic concepts from circuit theory, artificial intelligence, microprocessor control and physical design used in basic robotics competition</description>
       <content>&lt;h2 id=&#34;tufts-university-school-of-engineering&#34;&gt;Tufts University, School of Engineering&lt;/h2&gt;
 &lt;p&gt;B.S. Mechanical Engineering (minor in Computer Science) • Sep 2019 - May 2023&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Mechanics&lt;/code&gt;: Equilibrium FBD of static and dynamic particles and rigid bodies; stress and strain of static members under various loadings; kinematics and kinetics of bodies in 2D and 3D plane motion; momentum-impulse and work-energy theorems for dynamic systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Engineering Design&lt;/code&gt;: Failure theories and safety criteria under loading conditions; FEA simulation and Castiliagno&amp;rsquo;s Theorem; introductory analysis of machine design elements; user-centric ideation and engineering decision-making; working with vendors and clients to communicate designs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Materials &amp;amp; Manufacturing&lt;/code&gt;: Principles identification/selection of materials and manufacturing processes; microstructures and properties characterization; mechanisms of structural modification and testing methods; CAD and engineering drawings of parts and assemblies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Thermal Fluid Systems&lt;/code&gt;: Application of thermodynamic reasoning to system design; classical fluid mechanics and heat transfer in various conditions; fluid properties and analysis of different systems and flows;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Electromechanical Systems&lt;/code&gt;: Design and analysis of PCB and electrical components; use of sensors, feedback controllers, and actuators for hardware implementation; oscilloscopes and computer tools to test and debug circuits; modeling and control of dynamic systems&lt;/li&gt;
 &lt;/ul&gt;
@@ -62,27 +81,8 @@ My inbox is always open, so feel free to reach out and say hello! I&amp;rsquo;m 
 &lt;p&gt;&lt;code&gt;Robotics&lt;/code&gt;: Introduction to controls, image processing, sensor development, filtering, and state machines; basic concepts from circuit theory, artificial intelligence, microprocessor control and physical design used in basic robotics competition&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;code&gt;Mechanics&lt;/code&gt;: Equilibrium FBD of static and dynamic particles and rigid bodies; stress and strain of static members under various loadings; kinematics and kinetics of bodies in 2D and 3D plane motion; momentum-impulse and work-energy theorems for dynamic systems&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Computer Science&lt;/code&gt;: Data structures and algorithms in C++ such as linked lists, trees, graphs, dynamic storage allocation, and recursion; machine-level concepts in C and assembly code including memory, cache, registers, machine arithmetic, and bitwise operations&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Materials &amp;amp; Manufacturing&lt;/code&gt;: Principles identification/selection of materials and manufacturing processes; microstructures and properties characterization; mechanisms of structural modification and testing methods; CAD and engineering drawings of parts and assemblies&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Engineering Design&lt;/code&gt;: Failure theories and safety criteria under loading conditions; FEA simulation and Castiliagno&amp;rsquo;s Theorem; introductory analysis of machine design elements; user-centric ideation and engineering decision-making; working with vendors and clients to communicate designs&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Thermal Fluid Systems&lt;/code&gt;: Application of thermodynamic reasoning to system design; classical fluid mechanics and heat transfer in various conditions; fluid properties and analysis of different systems and flows;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Computer Science&lt;/code&gt;: Data structures and algorithms in C++ such as linked lists, trees, graphs, dynamic storage allocation, and recursion; machine-level concepts in C and assembly code including memory, cache, registers, machine arithmetic, and bitwise operations&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
