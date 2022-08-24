@@ -1,10 +1,11 @@
+
 +++
 title = "About"
 cover = "homepage/me.jpg" 
 layout = "2col-right"
 +++
 
-**Hi there!** My name is `Tue Nguyen (pronounce like 2A nu-win) `
+**Hi there!** My name is `Tue Nguyen (Hello Me90)`
 
 I am a Mechanical Engineering & Computer Science student at Tufts University's Class of 2023 🐘🐘🐘.
 

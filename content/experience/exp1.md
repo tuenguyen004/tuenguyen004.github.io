@@ -12,7 +12,7 @@ showFullContent = false
 
 Write something here. Max two columns of pictures
 
-{{< figure src="/experience/exp1/me123.jpg" alt="MarCO Operations Team in the SFOC 'Dark Room'" position="right" >}}
-{{< figure src="/experience/exp1/me123.jpg" alt="MarCO Operations Team in the SFOC 'Dark Room'" position="left" >}}
+{{< figure src="/experience/exp1/me123.jpg" alt="alternative name here!'" position="right" >}}
+{{< figure src="/experience/exp1/me123.jpg" alt="alternative name here!'" position="left" >}}
 
 Remember to write closing words
