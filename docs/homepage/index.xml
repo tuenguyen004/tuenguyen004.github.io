@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepages on Tue Nguyen&#39;s Portfolio</title>
+    <title>Homepages on Tue&#39;s Portfolio</title>
     <link>https://tuenguyen004.github.io/homepage/</link>
-    <description>Recent content in Homepages on Tue Nguyen&#39;s Portfolio</description>
+    <description>Recent content in Homepages on Tue&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://tuenguyen004.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://tuenguyen004.github.io/homepage/about/</link>
+      <title>About Me</title>
+      <link>https://tuenguyen004.github.io/homepage/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tuenguyen004.github.io/homepage/about/</guid>
-      <description>Hi there! My name is Tue Nguyen (Hello Me90)
-I am a Mechanical Engineering &amp;amp; Computer Science student at Tufts University&amp;rsquo;s Class of 2023 🐘🐘🐘.
-My interests are focused in electromechanical design, 3D modeling, and anything related to robotics. Outside of hardware development, I love spending time outdoors, vibing to R&amp;amp;B/Hip-Hop music, and cooking all kinds of healthy dishes!
-Resume • Github • Linkedin</description>
-      <content>&lt;p&gt;&lt;strong&gt;Hi there!&lt;/strong&gt; My name is &lt;code&gt;Tue Nguyen (Hello Me90)&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;I am a Mechanical Engineering &amp;amp; Computer Science student at Tufts University&amp;rsquo;s Class of 2023 🐘🐘🐘.&lt;/p&gt;
-&lt;p&gt;My interests are focused in electromechanical design, 3D modeling, and anything related to robotics. 
-Outside of hardware development, I love spending time outdoors, &lt;strong&gt;vibing&lt;/strong&gt; to R&amp;amp;B/Hip-Hop music, and cooking all kinds of healthy dishes!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Sx84Xc2-MElP6AHP3IdRcKy1m9e0xDXs/view?usp=sharing&#34;&gt;Resume&lt;/a&gt; • &lt;a href=&#34;https://github.com/tuenguyen004&#34;&gt;Github&lt;/a&gt; • &lt;a href=&#34;https://www.linkedin.com/in/tue-hm-nguyen/&#34;&gt;Linkedin&lt;/a&gt;&lt;/p&gt;
+      <guid>https://tuenguyen004.github.io/homepage/welcome/</guid>
+      <description>Did you know: Tue is pronounced as &amp;ldquo;two-aye&amp;rdquo;?
+Hello, my name is Tue (2A). I&amp;rsquo;m a rising senior at Tufts University majoring in Mechanical Engineering. My skills and interests are in electromechnical design, product testing, and brain-computer interfaces.
+Currently, I work at Bray Lab PALLS where I help Tufts&#39; students brainstorm and fabricate their most ambitious designs to life!
+Check out all my projects in the section below or sorted by hardware, software, electronics, etc.</description>
+      <content>&lt;p&gt;&lt;em&gt;Did you know: Tue is pronounced as &amp;ldquo;two-aye&amp;rdquo;?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Hello, my name is &lt;code&gt;Tue (2A)&lt;/code&gt;. I&amp;rsquo;m a rising senior at &lt;code&gt;Tufts University&lt;/code&gt; majoring in &lt;code&gt;Mechanical Engineering&lt;/code&gt;. My skills and interests are in electromechnical design, product testing, and brain-computer interfaces.&lt;/p&gt;
+&lt;p&gt;Currently, I work at &lt;a href=&#34;https://sites.tufts.edu/bray/&#34;&gt;&lt;code&gt;Bray Lab PALLS&lt;/code&gt;&lt;/a&gt; where I help Tufts&#39; students brainstorm and fabricate their most ambitious designs to life!&lt;/p&gt;
+&lt;p&gt;Check out all my projects in the section below or sorted by &lt;a href=&#34;https://tuenguyen004.github.io/tags/hardware&#34;&gt;hardware&lt;/a&gt;, &lt;a href=&#34;https://tuenguyen004.github.io/tags/software&#34;&gt;software&lt;/a&gt;, &lt;a href=&#34;https://tuenguyen004.github.io/tags/electronics/&#34;&gt;electronics&lt;/a&gt;, etc.&lt;/p&gt;
 </content>
     </item>
     
@@ -30,14 +29,14 @@ Outside of hardware development, I love spending time outdoors, &lt;strong&gt;vi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tuenguyen004.github.io/homepage/contact/</guid>
-      <description>I am currently seeking for internship opportunities in Summer 2022 to expand my knowledge and experience. Feel free to reach out and say hello! I&amp;rsquo;m always looking for new projects, and would love to collaborate on something cool!
- Github: https://github.com/tuenguyen004 Linkedin: https://www.linkedin.com/in/tue-hm-nguyen/ Email Address: tue.nguyen004@gmail.com  </description>
-      <content>&lt;p&gt;I am currently seeking for &lt;strong&gt;internship opportunities in Summer 2022&lt;/strong&gt; to expand my knowledge and experience. 
-Feel free to reach out and say hello! I&amp;rsquo;m always looking for new projects, and would love to collaborate on something cool!&lt;/p&gt;
+      <description>I&amp;rsquo;m currently seeking for full-time and/or internship positions for Spring and Summer 2023, but my inbox is OPEN for any opportunities. I&amp;rsquo;m always looking to be a part of something cool!
+Feel free to reach out and say hello 👋
+ Resume (in PDF): last updated on August 2022 Let&#39;s get in touch!: on Github, Linkedin, or via email  </description>
+      <content>&lt;p&gt;I&amp;rsquo;m currently seeking for &lt;code&gt;full-time and/or internship positions for Spring and Summer 2023&lt;/code&gt;, but &lt;strong&gt;my inbox is OPEN for any opportunities&lt;/strong&gt;. I&amp;rsquo;m always looking to be a part of something cool!&lt;/p&gt;
+&lt;p&gt;Feel free to reach out and say hello 👋&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Github&lt;/code&gt;: &lt;a href=&#34;https://github.com/tuenguyen004&#34;&gt;https://github.com/tuenguyen004&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Linkedin&lt;/code&gt;: &lt;a href=&#34;https://www.linkedin.com/in/tue-hm-nguyen/&#34;&gt;https://www.linkedin.com/in/tue-hm-nguyen/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Email Address&lt;/code&gt;: &lt;a href=&#34;mailto:tue.nguyen004@gmail.com&#34;&gt;tue.nguyen004@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Resume (in PDF)&lt;/code&gt;: &lt;a href=&#34;https://drive.google.com/file/d/1jBTHOz_wsk1-E2xdAwhxxsOVwY4u7iy_/view?usp=sharing&#34;&gt;last updated on August 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Let&#39;s get in touch!&lt;/code&gt;: on &lt;a href=&#34;https://github.com/tuenguyen004&#34;&gt;Github&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/tue-hm-nguyen/&#34;&gt;Linkedin&lt;/a&gt;, or via &lt;a href=&#34;mailto:tue.nguyen004@gmail.com&#34;&gt;email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     </item>
@@ -93,21 +92,25 @@ Feel free to reach out and say hello! I&amp;rsquo;m always looking for new proje
     </item>
     
     <item>
-      <title>Skills</title>
-      <link>https://tuenguyen004.github.io/homepage/skills/</link>
+      <title>who&#39;s 2A</title>
+      <link>https://tuenguyen004.github.io/homepage/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tuenguyen004.github.io/homepage/skills/</guid>
-      <description>3D CAD modeling with SolidWorks, Fusion 360, AutoCAD, and Onshape Proficient in hardware design and fabrication using 3D printers and machine shop techniques Hardware design of PCB layouts with KiCAD C/C++ and Python for hardware applications using Arduino and Raspberry Pi Experience with electromechanical systems, particularly: IoT devices and robots. 2D vector prototyping with Figma, Inkscape, and Adobe Illsutrator  View my projects and experiences sorted by tags!</description>
-      <content>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://tuenguyen004.github.io/tags/3d-design/&#34;&gt;3D CAD modeling&lt;/a&gt; with SolidWorks, Fusion 360, AutoCAD, and Onshape&lt;/li&gt;
-&lt;li&gt;Proficient in &lt;a href=&#34;https://tuenguyen004.github.io/tags/hardware-design/&#34;&gt;hardware design&lt;/a&gt; and &lt;a href=&#34;https://tuenguyen004.github.io/tags/fabrication/&#34;&gt;fabrication&lt;/a&gt; using 3D printers and machine shop techniques&lt;/li&gt;
-&lt;li&gt;Hardware design of &lt;a href=&#34;https://tuenguyen004.github.io/tags/pcb-design/&#34;&gt;PCB layouts&lt;/a&gt; with KiCAD&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tuenguyen004.github.io/tags/c/c++/&#34;&gt;C/C++&lt;/a&gt; and &lt;a href=&#34;https://tuenguyen004.github.io/tags/python/&#34;&gt;Python&lt;/a&gt; for hardware applications using &lt;a href=&#34;https://tuenguyen004.github.io/tags/arduino/&#34;&gt;Arduino&lt;/a&gt; and &lt;a href=&#34;https://tuenguyen004.github.io/tags/raspberry-pi/&#34;&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Experience with electromechanical systems, particularly: &lt;a href=&#34;https://tuenguyen004.github.io/tags/iot-devices/&#34;&gt;IoT devices&lt;/a&gt; and &lt;a href=&#34;https://tuenguyen004.github.io/tags/robotics/&#34;&gt;robots&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tuenguyen004.github.io/tags/2d-design/&#34;&gt;2D vector prototyping&lt;/a&gt; with Figma, Inkscape, and Adobe Illsutrator&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://tuenguyen004.github.io/tags&#34;&gt;View my projects and experiences sorted by tags!&lt;/a&gt;&lt;/p&gt;
+      <guid>https://tuenguyen004.github.io/homepage/about/</guid>
+      <description>2A (noun.)
+2A, or Tue as his real first name and pronounced as &amp;quot;two-aye&amp;quot; for ease of communication, is the creator of this portfolio.
+:::::::::::::::::::: a bit more about 2A ::::::::::::::::::::
+I design robust and intuitive electromechanical systems!
+From three-pound BattleBots to a soft-robotics exoskeleton, I&amp;rsquo;m experienced in both working from scratch and modifying existed technology to create functional prototypes. Familiar with various aspects of robotics and fabrication methods, I can then turn them into dynamic and responsive systems.</description>
+      <content>&lt;p&gt;&lt;em&gt;2A (noun.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2A, or &lt;code&gt;Tue as his real first name&lt;/code&gt; and &lt;code&gt;pronounced as &amp;quot;two-aye&amp;quot;&lt;/code&gt; for ease of communication, is the creator of this portfolio.&lt;/p&gt;
+&lt;p&gt;:::::::::::::::::::: &lt;em&gt;a bit more about 2A&lt;/em&gt; ::::::::::::::::::::&lt;/p&gt;
+&lt;p&gt;I design robust and intuitive &lt;a href=&#34;https://tuenguyen004.github.io/tags/hardware/&#34;&gt;electromechanical&lt;/a&gt; systems!&lt;/p&gt;
+&lt;p&gt;From three-pound BattleBots to a soft-robotics exoskeleton, I&amp;rsquo;m experienced in both working from scratch and modifying existed technology to create functional prototypes. Familiar with various aspects of &lt;a href=&#34;https://tuenguyen004.github.io/tags/robotics/&#34;&gt;robotics&lt;/a&gt; and &lt;a href=&#34;https://tuenguyen004.github.io/tags/fabrication/&#34;&gt;fabrication&lt;/a&gt; methods, I can then turn them into dynamic and responsive systems.&lt;/p&gt;
+&lt;p&gt;And I&amp;rsquo;m not afraid to dabble in &lt;a href=&#34;https://tuenguyen004.github.io/tags/software&#34;&gt;software&lt;/a&gt;, having written code that controls hardware prototypes and even devised a mathematical model with biometric datasets.&lt;/p&gt;
+&lt;p&gt;Outside of hardware engineering, I love &lt;a href=&#34;https://tuenguyen004.github.io/tags/3d-design&#34;&gt;sketching and 3D modeling&lt;/a&gt; anything I can touch and imagine. I also educate others how to do the same, &lt;a href=&#34;https://tuenguyen004.github.io/tags/teaching/&#34;&gt;teaching K-12 students&lt;/a&gt; how to bring their project ideas into reality.&lt;/p&gt;
+&lt;p&gt;In my free time, I can be found modifying my &lt;a href=&#34;https://tuenguyen004.github.io/tags/ender3pro/&#34;&gt;Ender3Pro&lt;/a&gt; or playing board games with friends!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m passionate about solving problems through engineering and design. To me, the combination of purposeful craftsmanship and efficient workflow has the power to make the world a much better place. The opportunity to make that come to true one day is what drives me to wake up, learn, and create everyday!&lt;/p&gt;
 </content>
     </item>
     

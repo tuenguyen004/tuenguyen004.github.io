@@ -5,58 +5,47 @@ theme = "hugo-theme-terminal"
 paginate = 10
 
 [params]
-  contentTypeName = "experience"
+  contentTypeName = "projects"
   themeColor = "orange"
-  showMenuItems = 6
+  showMenuItems = 4
   fullWidthTheme = false
-  # favicon = "favicon.ico"
   centerTheme = true
   singlePageSite = true
 
 
 [languages]
     [languages.en]
-        title = "Tue Nguyen's Portfolio"
+        title = "Tue's Portfolio"
         subtitle = ""
         keywords = ""
         copyright = ""
-        menuMore = "Show more"
-        readMore = "Read more"
-        readOtherPosts = "Read other posts"
+        menuMore = "show more"
+        readMore = "read more"
+        readOtherPosts = "read other posts"
 
         [languages.en.params.logo]
-        logoText = "Tue Nguyen / Hardware Engineering Student"
+        logoText = "Tue's Portfolio / An Engineering Student"
         logoSplit = " / "   # Places logo text blocks in to spans so they wrap nicely
         logoHomeLink = "/"
 
         [languages.en.menu]
         [[languages.en.menu.main]]
-            identifier = "about"
-            name = "About"
-            url = "/#about"
+            identifier = "welcome"
+            name = "about me"
+            url = "/#welcome"
             weight = 1
         [[languages.en.menu.main]]
-            identifier = "skills"
-            name = "Skills"
-            url = "/#skills"
+            identifier = "projects"
+            name = "things i've done"
+            url = "/projects"
             weight = 2
         [[languages.en.menu.main]]
-            identifier = "experience"
-            name = "Experience"
-            url = "/experience"
+            identifier = "contact"
+            name = "resume + contact"
+            url = "/#contact"
             weight = 3
         [[languages.en.menu.main]]
-            identifier = "projects"
-            name = "Projects"
-            url = "/projects"
+            identifier = "about"
+            name = "who's 2A?"
+            url = "/#about"
             weight = 4
-        [[languages.en.menu.main]]
-            identifier = "education"
-            name = "Education"
-            url = "/#education"
-            weight = 5
-        [[languages.en.menu.main]]
-            identifier = "contact"
-            name = "Contact"
-            url = "/#contact"
-            weight = 6

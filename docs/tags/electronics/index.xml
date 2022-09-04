@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>electronics on Tue&#39;s Portfolio</title>
+    <link>https://tuenguyen004.github.io/tags/electronics/</link>
+    <description>Recent content in electronics on Tue&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tuenguyen004.github.io/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COVID-19 Testing at Tufts University</title>
+      <link>https://tuenguyen004.github.io/projects/tts_covid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tuenguyen004.github.io/projects/tts_covid/</guid>
+      <description>During my 2nd year, I joined Tufts Technology Services (TTS) as a part-time intern to work with the university&amp;rsquo;s surveillance COVID-19 testing program. Together with six other Tufts students, we created solutions to automate the testing workflow and eliminate invalid samples. Specifically, I was leading the AutoLabel subteam and fabricated all hardware components for the team.
+&amp;raquo; How Surveillance Testing Works? Let&amp;rsquo;s first walkthrough the testing program at Tufts to see where and how our work fit in!</description>
+      <content>&lt;p&gt;During my 2nd year, I joined &lt;a href=&#34;https://coronavirus.tufts.edu/testing-at-tufts&#34;&gt;Tufts Technology Services (TTS)&lt;/a&gt; as a part-time intern to work with the university&amp;rsquo;s surveillance COVID-19 testing program. Together with six other Tufts students, we created solutions to automate the testing workflow and eliminate invalid samples. Specifically, I was leading the AutoLabel subteam and fabricated all hardware components for the team.&lt;/p&gt;
+
+  &lt;figure class=&#34;right&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/tts_covid/covid_testing_steps.png&#34;  alt=&#34;Steps for COVID Surveillance Testing at Tufts&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h4 id=&#34;-how-surveillance-testing-works&#34;&gt;&amp;raquo; How Surveillance Testing Works?&lt;/h4&gt;
+&lt;p&gt;Let&amp;rsquo;s first walkthrough the testing program at Tufts to see where and how our work fit in!&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;STEP 1:&lt;/code&gt; Begin by tapping your Tufts ID at one of the check-in stations.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;STEP 2:&lt;/code&gt; Receive swab &amp;amp; specimen tube attached with a barcode label unique to you.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;STEP 3:&lt;/code&gt; Self-collect sample from your nose and place the swabs into specimen tube.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;STEP 4:&lt;/code&gt; Give specimen tubes to staff before getting results via email within 24 hours.&lt;/p&gt;
+&lt;h4 id=&#34;-problem-statement&#34;&gt;&amp;raquo; Problem Statement&lt;/h4&gt;
+&lt;p&gt;Approximately 15% of the time, some specimen tubes led to inconclusive and failures at the lab, causing &lt;code&gt;result delays and the inconvenience of coming back the next day to retest&lt;/code&gt; for community members. We were tasked &lt;code&gt;to track down these inefficiencies&lt;/code&gt; and developed methods to improve upon the current processes.&lt;/p&gt;
+&lt;p&gt;With some time spent in the testing centers (and multiple trash bins), we found what was the ROOT CAUSE for the invalid results:  &lt;code&gt;unreadable barcodes with inconsistent placement&lt;/code&gt;. Some of them were even ripped, due to what we generalized as &amp;ldquo;human errors&amp;rdquo;.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/tts_covid/problems_found.png&#34;  alt=&#34;Problems Found&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h4 id=&#34;-approach--methods&#34;&gt;&amp;raquo; Approach &amp;amp; Methods&lt;/h4&gt;
+&lt;p&gt;After determining many causal factors and narrowing down one root cause from the existing protocols, we discused with TTS adminstration and proposed two solutions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;Automate the label peeling and placement on specimen tubes&lt;/code&gt; (happened in Step 2)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Validate each specimen tube&#39;s readibility before sending to lab&lt;/code&gt; (happened in Step 4)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We divided ourselves into two sub-teams called AutoLabel and ImageProcessing as names for the MVPs, with me and Sam Chung &amp;lsquo;22 leading the development for each respective groups to develop customized hardware and software solutions for the existing testing workflow.&lt;/p&gt;
+&lt;h4 id=&#34;-solution-1-auto-peeling-labels&#34;&gt;&amp;raquo; Solution 1: Auto-peeling Labels!&lt;/h4&gt;
+
+  &lt;figure class=&#34;left&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/tts_covid/autopeeler_square.png&#34;  alt=&#34;Closeu-up shot of AutoPeeler&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;&lt;em&gt;AutoLabel (noun.)&lt;/em&gt; is &lt;code&gt;a two-part machine that can apply the barcode labels onto specimen tubes with better uniformity and consistency&lt;/code&gt; than they are currently being done. The design first involves an add-on module that peels one printed label. The machine will then accurately place a label onto the specimen tube and return to the user in approximately 10 seconds.&lt;/p&gt;
+&lt;p&gt;In the subteam, I designed the add-on module for peeling printed labels`` which was dubbed by my teammates as &lt;code&gt;The AutoPeeler&lt;/code&gt;, while the other two members worked on the machine to place labels automatically from &lt;em&gt;the AutoPeeler&lt;/em&gt; onto the specimen tube.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/tts_covid/autopeeler.png&#34;  alt=&#34;The AutoPeeler&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+
+  &lt;figure class=&#34;right&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/tts_covid/iterative_design.png&#34;  alt=&#34;Iterative Design of Platform and Peeling Angles&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;The add-on module pulls the spool of blank labels over a sharp angle to automatically peel the newly-printed labels off the backing tape. To do so, I built a platform consisting of a servo-powered spool &lt;code&gt;to create and relieve tension with a bottom-facing design such that it can be placed on &amp;amp; removed from different label printer models&lt;/code&gt;. For software implementation, I used Arduino and wrote Python scripts on Linux to match the timing of existing printer.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;I also iterated through different peeling angles&lt;/code&gt; to determine the design to get the barcode labels at an optimal location for the rest of the assembly. I designed hardware components on SolidWorks and rapid-prototyped them on 3D printers in the &lt;a href=&#34;https://nolop.org/&#34;&gt;Nolop Makerspace&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Below is a video demonstration of how the AutoPeeler works!&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/DQ24KcTyxoU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&#34;-solution-2-the-magic-box&#34;&gt;&amp;raquo; Solution 2: The Magic Box!&lt;/h4&gt;
+
+  &lt;figure class=&#34;left&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/tts_covid/imageprocessing_work.png&#34;  alt=&#34;My Work for ImageProcessing&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;&lt;em&gt;ImageProcessing (noun.)&lt;/em&gt; is &lt;code&gt;a data-collecting device that captures images of all specimen tubes leaving the testing centers&lt;/code&gt;. It uses a Raspberry Pi and six high-definition cameras to detect any errors that can be intercepted and fixed before sending to the lab. To utilize this device, an additional procedure is added to Step 4. The staff will insert the specimen tube into the slot and press down onto it. A green LED and a beep sound from a buzzer will signal once images has been successfully recorded.&lt;/p&gt;
+&lt;p&gt;Since ImageProcessing was a software-focused subteam, only one member was working on the physical prototype. &lt;code&gt;So I helped with the design of the main body frame, as well fabricating wooden &amp;amp; acrylic parts on the laser-cutter!&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;-field-testing--takeaways&#34;&gt;&amp;raquo; Field-testing &amp;amp; Takeaways&lt;/h4&gt;
+&lt;p&gt;I was given the opportunity &lt;code&gt;to conduct field-testing for the AutoPeeler&lt;/code&gt; at one of the Tufts COVID-19 testing centers. While it was very exciting to see my prototype in action, I also got to &lt;code&gt;observe and identify a flaw in my design&lt;/code&gt; after a few days: many of the staffs struggled with loading a new spool of blank labels due to &lt;code&gt;the procedure not being user-friendly&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Using this observation, &lt;code&gt;I improved the fixture of the platform with self-fastening features&lt;/code&gt;, reducing the number of screws to allow for a more intuitive user experience. The next week I manufactured a few more prototypes with the improved design and received much more positive feedback from the staffs!&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/DIDVPaK9syo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;At the end of the internship, &lt;code&gt;we presented our technical work and results in front of about 150 TTS employees (on Zoom, unfortunately)&lt;/code&gt;. I was reminded again that what we had worked on is greatly important to Tufts and the communities around us, keeping everyone safe during the pandemic! I&amp;rsquo;m thankful for the opportunity to not only learn a lot about engineering in real life but also the chance to give back to my university with the skills I&amp;rsquo;m learning at Tufts!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

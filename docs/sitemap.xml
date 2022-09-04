@@ -2,50 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tuenguyen004.github.io/tags/2d-design/</loc>
-  </url><url>
     <loc>https://tuenguyen004.github.io/tags/3d-design/</loc>
   </url><url>
-    <loc>https://tuenguyen004.github.io/homepage/about/</loc>
+    <loc>https://tuenguyen004.github.io/homepage/welcome/</loc>
   </url><url>
-    <loc>https://tuenguyen004.github.io/tags/arduino/</loc>
-  </url><url>
-    <loc>https://tuenguyen004.github.io/tags/c/c&#43;&#43;/</loc>
+    <loc>https://tuenguyen004.github.io/tags/biomechanics/</loc>
   </url><url>
     <loc>https://tuenguyen004.github.io/categories/</loc>
   </url><url>
     <loc>https://tuenguyen004.github.io/homepage/contact/</loc>
   </url><url>
+    <loc>https://tuenguyen004.github.io/projects/tts_covid/</loc>
+  </url><url>
     <loc>https://tuenguyen004.github.io/homepage/education/</loc>
   </url><url>
-    <loc>https://tuenguyen004.github.io/experience/</loc>
-  </url><url>
-    <loc>https://tuenguyen004.github.io/experience/exp1/</loc>
+    <loc>https://tuenguyen004.github.io/tags/electronics/</loc>
   </url><url>
     <loc>https://tuenguyen004.github.io/tags/fabrication/</loc>
   </url><url>
-    <loc>https://tuenguyen004.github.io/tags/hardware-design/</loc>
+    <loc>https://tuenguyen004.github.io/tags/hardware/</loc>
   </url><url>
     <loc>https://tuenguyen004.github.io/homepage/</loc>
   </url><url>
-    <loc>https://tuenguyen004.github.io/tags/iot-devices/</loc>
+    <loc>https://tuenguyen004.github.io/tags/research/</loc>
   </url><url>
-    <loc>https://tuenguyen004.github.io/tags/pcb-design/</loc>
+    <loc>https://tuenguyen004.github.io/projects/exosuit/</loc>
   </url><url>
-    <loc>https://tuenguyen004.github.io/projects/proj1/</loc>
-  </url><url>
-    <loc>https://tuenguyen004.github.io/projects/</loc>
-  </url><url>
-    <loc>https://tuenguyen004.github.io/tags/python/</loc>
-  </url><url>
-    <loc>https://tuenguyen004.github.io/tags/raspberry-pi/</loc>
-  </url><url>
-    <loc>https://tuenguyen004.github.io/tags/robotics/</loc>
-  </url><url>
-    <loc>https://tuenguyen004.github.io/homepage/skills/</loc>
+    <loc>https://tuenguyen004.github.io/tags/software/</loc>
   </url><url>
     <loc>https://tuenguyen004.github.io/tags/</loc>
   </url><url>
+    <loc>https://tuenguyen004.github.io/projects/</loc>
+  </url><url>
     <loc>https://tuenguyen004.github.io/</loc>
+  </url><url>
+    <loc>https://tuenguyen004.github.io/homepage/about/</loc>
   </url>
 </urlset>

@@ -314,8 +314,8 @@ mark {
 .container {
   display: flex;
   flex-direction: column;
-  padding: 40px;
-  max-width: 1024px;
+  padding: 60px;
+  max-width: 1224px;
   min-height: 100vh;
   border-right: 1px solid rgba(255, 255, 255, 0.1);
 

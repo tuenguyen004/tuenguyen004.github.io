@@ -1,15 +1,23 @@
-
 +++
-title = "About"
-cover = "homepage/me.jpg" 
+title = "who's 2A"
+cover = "homepage/about_side.png"
 layout = "2col-right"
 +++
 
-**Hi there!** My name is `Tue Nguyen (Hello Me90)`
+*2A (noun.)*
 
-I am a Mechanical Engineering & Computer Science student at Tufts University's Class of 2023 🐘🐘🐘.
+2A, or `Tue as his real first name` and `pronounced as "two-aye"` for ease of communication, is the creator of this portfolio.
 
-My interests are focused in electromechanical design, 3D modeling, and anything related to robotics. 
-Outside of hardware development, I love spending time outdoors, **vibing** to R&B/Hip-Hop music, and cooking all kinds of healthy dishes!
+:::::::::::::::::::: *a bit more about 2A* ::::::::::::::::::::
 
-[Resume](https://drive.google.com/file/d/1Sx84Xc2-MElP6AHP3IdRcKy1m9e0xDXs/view?usp=sharing) • [Github](https://github.com/tuenguyen004) • [Linkedin](https://www.linkedin.com/in/tue-hm-nguyen/) 
+I design robust and intuitive [electromechanical](/tags/hardware/) systems!
+
+From three-pound BattleBots to a soft-robotics exoskeleton, I'm experienced in both working from scratch and modifying existed technology to create functional prototypes. Familiar with various aspects of [robotics](/tags/robotics/) and [fabrication](/tags/fabrication/) methods, I can then turn them into dynamic and responsive systems. 
+
+And I'm not afraid to dabble in [software](/tags/software), having written code that controls hardware prototypes and even devised a mathematical model with biometric datasets.
+
+Outside of hardware engineering, I love [sketching and 3D modeling](/tags/3d-design) anything I can touch and imagine. I also educate others how to do the same, [teaching K-12 students](/tags/teaching/) how to bring their project ideas into reality.
+
+In my free time, I can be found modifying my [Ender3Pro](/tags/ender3pro/) or playing board games with friends!
+
+I'm passionate about solving problems through engineering and design. To me, the combination of purposeful craftsmanship and efficient workflow has the power to make the world a much better place. The opportunity to make that come to true one day is what drives me to wake up, learn, and create everyday!

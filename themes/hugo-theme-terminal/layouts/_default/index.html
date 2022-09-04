@@ -42,7 +42,8 @@
                 <span class="button previous">
                   <a href="{{ .URL }}">
                     <span class="button__icon">→</span>
-                    <span class="button__text">See more {{ .Name | pluralize }}</span>
+                    <!-- add "pluralize" after | to add an "s" after .Name -->
+                    <span class="button__text">See more {{ .Name |  }}</span>
                   </a>
                 </span>
               </div>

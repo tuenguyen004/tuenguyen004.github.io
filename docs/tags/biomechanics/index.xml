@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>biomechanics on Tue&#39;s Portfolio</title>
+    <link>https://tuenguyen004.github.io/tags/biomechanics/</link>
+    <description>Recent content in biomechanics on Tue&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tuenguyen004.github.io/tags/biomechanics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soft Robotics Exosuit: Posture Categorization</title>
+      <link>https://tuenguyen004.github.io/projects/exosuit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tuenguyen004.github.io/projects/exosuit/</guid>
+      <description>As part of Tufts Human Factors Lab, Soft Robotics Exosuit is a student-led research initiative designing a soft-robotics powered exoskeleton to correct sedentary postures using real-time inertial measurement unit (IMU) and electromyography (EMG) data.
+Physical Prototype of the &#39;Exosuit&#39;Joined Exosuit in late May 2020, I was a research assistant in the Motion Study Team. Over the summer, I single-handedly developed a mathematical model that categorizes different sitting postures with upper body movement and muscle activity datasets collected from the Exosuit&amp;rsquo;s physical prototype.</description>
+      <content>&lt;p&gt;As part of &lt;a href=&#34;https://sites.tufts.edu/humanfactors/2017/09/18/facilities/&#34;&gt;Tufts Human Factors Lab&lt;/a&gt;, Soft Robotics Exosuit is a student-led research initiative designing a soft-robotics powered exoskeleton to correct sedentary postures using real-time inertial measurement unit (IMU) and electromyography (EMG) data.&lt;/p&gt;
+
+  &lt;figure class=&#34;right&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/exosuit/exosuit_physical_prototype.png&#34;  alt=&#34;Physical Prototype of the Exosuit&#34;   /&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;Physical Prototype of the &#39;Exosuit&#39;&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;Joined Exosuit in late May 2020, I was a research assistant in the Motion Study Team. Over the summer, &lt;code&gt;I single-handedly developed a mathematical model that categorizes different sitting postures&lt;/code&gt; with upper body movement and muscle activity datasets collected from the Exosuit&amp;rsquo;s physical prototype.&lt;/p&gt;
+&lt;p&gt;Continuing my work as a part-time undergraduate researcher during the school year, I proposed the team to &lt;code&gt;build a machine learning model that predicts and intentionally overfits to the user&#39;s habits, learning from movement and personalize your experience!&lt;/code&gt; The idea was developed into a companion mobile app for the Exosuit, reminding you to correct postures promptly.&lt;/p&gt;
+&lt;h4 id=&#34;-visualize-past-datasets&#34;&gt;&amp;raquo; Visualize Past Datasets&lt;/h4&gt;
+&lt;p&gt;As part of onboarding, I wrote for myself a MATLAB script visualizing the datasets captured by the Exosuit&amp;rsquo;s sensors. The script takes any .csv files and output them as 3D scatter plots. What supposedly was a &lt;code&gt;learning-on-the-job program has now became an frequently-used tool&lt;/code&gt; for the Motion Study Team to validate our usability testing sessions.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/exosuit/visualize_script.png&#34;   /&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;The user interface and sample outputs of my program on MATLAB&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h4 id=&#34;-model-the-upper-torso-via-wearnotch&#34;&gt;&amp;raquo; Model the Upper Torso via Wearnotch&lt;/h4&gt;
+&lt;p&gt;With hardware prototyping postponed due to the COVID-19 pandemic, we relied on a third-party motion-capturing sensors called &lt;a href=&#34;https://wearnotch.com/&#34;&gt;Wearnotch&lt;/a&gt; in place of the Exosuit. Working remotely, I was then tasked with two main objectives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyze the motion-capturing framework of Wearnotch sensors&lt;/li&gt;
+&lt;li&gt;Develop a model to recognize postures using a minimal number of Wearnotch sensors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I designed and conducted my own pilot studies to learn how the Wearnotch technology capture movement into .csv files. Subsequently, we deduced that &lt;code&gt;only two Wearnotch sensors were needed&lt;/code&gt; to replicate the Exosuit, defining the human&amp;rsquo;s upper torso as:&lt;/p&gt;
+
+  &lt;figure class=&#34;right&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/exosuit/wearnotch_torso_model.png&#34;   /&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;The proposed Exosuit model using Wearnotch sensors&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;Chest Top / Chest Bottom / Tummy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With this knowledge in mind, I proposed that siting postures can be quantified with FOUR (4) motion elements as followed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Upright&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Back Not Straight&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Slouching&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Twist and Turn&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;-upright&#34;&gt;&amp;raquo; Upright&lt;/h4&gt;
+
+  &lt;figure class=&#34;right&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/exosuit/upright.png&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;Our model defines &amp;ldquo;upright&amp;rdquo; as a central zone revolving around one&amp;rsquo;s origin in x-z space. By tracking each body part&amp;rsquo;s displacement from [0, y, 0], our model can detect that the user has left the zone and lost its uprightness. The leaving directions of each parts are recorded.&lt;/p&gt;
+&lt;h4 id=&#34;-back-not-straight&#34;&gt;&amp;raquo; Back-Not-Straight&lt;/h4&gt;
+
+  &lt;figure class=&#34;right&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/exosuit/back_not_straight.png&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;By tracking each body part&amp;rsquo;s angles relative to one another, the model determines whether one&amp;rsquo;s back is straight from both anterior (front) and lateral (side) views. When one&amp;rsquo;s back deviates from the straight position in either view, a Back-not-Straight signal is detected. If this signal remains for longer, will the signal be recorded. Else, the signal is ignored!&lt;/p&gt;
+&lt;h4 id=&#34;-slouching&#34;&gt;&amp;raquo; Slouching&lt;/h4&gt;
+
+  &lt;figure class=&#34;right&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/exosuit/slouching.png&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;We introduced a new body part into our model to accurately characterize this motion: Hip! We defined slouching occurs when both chest and hip rotate toward the front. By tracking for Chest Top&amp;rsquo;s clockwise and Hip&amp;rsquo;s counter-clockwise rotations, our model can now check for &amp;ldquo;slumpy, drooping features&amp;rdquo; of a posture.&lt;/p&gt;
+&lt;h4 id=&#34;-twisting&#34;&gt;&amp;raquo; Twisting&lt;/h4&gt;
+
+  &lt;figure class=&#34;right&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/exosuit/twistnturn.png&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;This feature is the least-common, but it&amp;rsquo;s essential to describe the posture changes associated with &amp;ldquo;twists and turns&amp;rdquo; movements. By tracking the chest&amp;rsquo;s lateral angular displacement, our model identifies any left/right rotations of the upper torso.&lt;/p&gt;
+&lt;h4 id=&#34;-key-takeaways&#34;&gt;&amp;raquo; Key Takeaways&lt;/h4&gt;
+&lt;p&gt;Over the summer, I have written multiple MATLAB and Python programs (functions, classes definitions, scripts) that helps interpret and analyze the raw IMU data captured by Exosuit. For me, the most exciting challenge was &lt;code&gt;translating the conceptual model described above into written code&lt;/code&gt;. Feel free to check out my implementation &lt;a href=&#34;https://github.com/tuenguyen004/exosuit-research&#34;&gt;here!&lt;/a&gt;&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/exosuit/code_snippet.png&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;As a continuation of my summer work, I am currently supporting the Exosuit&amp;rsquo;s Software Team to create a Machine Learning model for Exosuit. Our goal is to detect harmful posture changes and notify the users before they occur. More specifically, we are looking to predict the user&amp;rsquo;s posture using the acquired knowledge of habitual movements, personalizing their experience with the mobile app to help breaks any undesirable posture habits. On the side, I&amp;rsquo;m also a mentor to the current Motion Study Team, providing my expertise and inputs to our current mathematical model and for any groundwork I have done.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Tue Nguyen&#39;s Portfolio</title>
+    <title>Tags on Tue&#39;s Portfolio</title>
     <link>https://tuenguyen004.github.io/tags/</link>
-    <description>Recent content in Tags on Tue Nguyen&#39;s Portfolio</description>
+    <description>Recent content in Tags on Tue&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://tuenguyen004.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2d-design</title>
-      <link>https://tuenguyen004.github.io/tags/2d-design/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tuenguyen004.github.io/tags/2d-design/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
     <item>
       <title>3d-design</title>
       <link>https://tuenguyen004.github.io/tags/3d-design/</link>
@@ -27,21 +17,21 @@
     </item>
     
     <item>
-      <title>arduino</title>
-      <link>https://tuenguyen004.github.io/tags/arduino/</link>
+      <title>biomechanics</title>
+      <link>https://tuenguyen004.github.io/tags/biomechanics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tuenguyen004.github.io/tags/arduino/</guid>
+      <guid>https://tuenguyen004.github.io/tags/biomechanics/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
-      <title>c/c&#43;&#43;</title>
-      <link>https://tuenguyen004.github.io/tags/c/c&#43;&#43;/</link>
+      <title>electronics</title>
+      <link>https://tuenguyen004.github.io/tags/electronics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tuenguyen004.github.io/tags/c/c&#43;&#43;/</guid>
+      <guid>https://tuenguyen004.github.io/tags/electronics/</guid>
       <description></description>
       <content></content>
     </item>
@@ -57,61 +47,31 @@
     </item>
     
     <item>
-      <title>hardware-design</title>
-      <link>https://tuenguyen004.github.io/tags/hardware-design/</link>
+      <title>hardware</title>
+      <link>https://tuenguyen004.github.io/tags/hardware/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tuenguyen004.github.io/tags/hardware-design/</guid>
+      <guid>https://tuenguyen004.github.io/tags/hardware/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
-      <title>iot-devices</title>
-      <link>https://tuenguyen004.github.io/tags/iot-devices/</link>
+      <title>research</title>
+      <link>https://tuenguyen004.github.io/tags/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tuenguyen004.github.io/tags/iot-devices/</guid>
+      <guid>https://tuenguyen004.github.io/tags/research/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
-      <title>pcb-design</title>
-      <link>https://tuenguyen004.github.io/tags/pcb-design/</link>
+      <title>software</title>
+      <link>https://tuenguyen004.github.io/tags/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tuenguyen004.github.io/tags/pcb-design/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://tuenguyen004.github.io/tags/python/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tuenguyen004.github.io/tags/python/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>raspberry-pi</title>
-      <link>https://tuenguyen004.github.io/tags/raspberry-pi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tuenguyen004.github.io/tags/raspberry-pi/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>robotics</title>
-      <link>https://tuenguyen004.github.io/tags/robotics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tuenguyen004.github.io/tags/robotics/</guid>
+      <guid>https://tuenguyen004.github.io/tags/software/</guid>
       <description></description>
       <content></content>
     </item>

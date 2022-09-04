@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tue Nguyen&#39;s Portfolio</title>
+    <title>Tue&#39;s Portfolio</title>
     <link>https://tuenguyen004.github.io/</link>
-    <description>Recent content on Tue Nguyen&#39;s Portfolio</description>
+    <description>Recent content on Tue&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://tuenguyen004.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://tuenguyen004.github.io/homepage/about/</link>
+      <title>About Me</title>
+      <link>https://tuenguyen004.github.io/homepage/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tuenguyen004.github.io/homepage/about/</guid>
-      <description>Hi there! My name is Tue Nguyen (Hello Me90)
-I am a Mechanical Engineering &amp;amp; Computer Science student at Tufts University&amp;rsquo;s Class of 2023 🐘🐘🐘.
-My interests are focused in electromechanical design, 3D modeling, and anything related to robotics. Outside of hardware development, I love spending time outdoors, vibing to R&amp;amp;B/Hip-Hop music, and cooking all kinds of healthy dishes!
-Resume • Github • Linkedin</description>
-      <content>&lt;p&gt;&lt;strong&gt;Hi there!&lt;/strong&gt; My name is &lt;code&gt;Tue Nguyen (Hello Me90)&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;I am a Mechanical Engineering &amp;amp; Computer Science student at Tufts University&amp;rsquo;s Class of 2023 🐘🐘🐘.&lt;/p&gt;
-&lt;p&gt;My interests are focused in electromechanical design, 3D modeling, and anything related to robotics. 
-Outside of hardware development, I love spending time outdoors, &lt;strong&gt;vibing&lt;/strong&gt; to R&amp;amp;B/Hip-Hop music, and cooking all kinds of healthy dishes!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Sx84Xc2-MElP6AHP3IdRcKy1m9e0xDXs/view?usp=sharing&#34;&gt;Resume&lt;/a&gt; • &lt;a href=&#34;https://github.com/tuenguyen004&#34;&gt;Github&lt;/a&gt; • &lt;a href=&#34;https://www.linkedin.com/in/tue-hm-nguyen/&#34;&gt;Linkedin&lt;/a&gt;&lt;/p&gt;
+      <guid>https://tuenguyen004.github.io/homepage/welcome/</guid>
+      <description>Did you know: Tue is pronounced as &amp;ldquo;two-aye&amp;rdquo;?
+Hello, my name is Tue (2A). I&amp;rsquo;m a rising senior at Tufts University majoring in Mechanical Engineering. My skills and interests are in electromechnical design, product testing, and brain-computer interfaces.
+Currently, I work at Bray Lab PALLS where I help Tufts&#39; students brainstorm and fabricate their most ambitious designs to life!
+Check out all my projects in the section below or sorted by hardware, software, electronics, etc.</description>
+      <content>&lt;p&gt;&lt;em&gt;Did you know: Tue is pronounced as &amp;ldquo;two-aye&amp;rdquo;?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Hello, my name is &lt;code&gt;Tue (2A)&lt;/code&gt;. I&amp;rsquo;m a rising senior at &lt;code&gt;Tufts University&lt;/code&gt; majoring in &lt;code&gt;Mechanical Engineering&lt;/code&gt;. My skills and interests are in electromechnical design, product testing, and brain-computer interfaces.&lt;/p&gt;
+&lt;p&gt;Currently, I work at &lt;a href=&#34;https://sites.tufts.edu/bray/&#34;&gt;&lt;code&gt;Bray Lab PALLS&lt;/code&gt;&lt;/a&gt; where I help Tufts&#39; students brainstorm and fabricate their most ambitious designs to life!&lt;/p&gt;
+&lt;p&gt;Check out all my projects in the section below or sorted by &lt;a href=&#34;https://tuenguyen004.github.io/tags/hardware&#34;&gt;hardware&lt;/a&gt;, &lt;a href=&#34;https://tuenguyen004.github.io/tags/software&#34;&gt;software&lt;/a&gt;, &lt;a href=&#34;https://tuenguyen004.github.io/tags/electronics/&#34;&gt;electronics&lt;/a&gt;, etc.&lt;/p&gt;
 </content>
     </item>
     
@@ -30,15 +29,108 @@ Outside of hardware development, I love spending time outdoors, &lt;strong&gt;vi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tuenguyen004.github.io/homepage/contact/</guid>
-      <description>I am currently seeking for internship opportunities in Summer 2022 to expand my knowledge and experience. Feel free to reach out and say hello! I&amp;rsquo;m always looking for new projects, and would love to collaborate on something cool!
- Github: https://github.com/tuenguyen004 Linkedin: https://www.linkedin.com/in/tue-hm-nguyen/ Email Address: tue.nguyen004@gmail.com  </description>
-      <content>&lt;p&gt;I am currently seeking for &lt;strong&gt;internship opportunities in Summer 2022&lt;/strong&gt; to expand my knowledge and experience. 
-Feel free to reach out and say hello! I&amp;rsquo;m always looking for new projects, and would love to collaborate on something cool!&lt;/p&gt;
+      <description>I&amp;rsquo;m currently seeking for full-time and/or internship positions for Spring and Summer 2023, but my inbox is OPEN for any opportunities. I&amp;rsquo;m always looking to be a part of something cool!
+Feel free to reach out and say hello 👋
+ Resume (in PDF): last updated on August 2022 Let&#39;s get in touch!: on Github, Linkedin, or via email  </description>
+      <content>&lt;p&gt;I&amp;rsquo;m currently seeking for &lt;code&gt;full-time and/or internship positions for Spring and Summer 2023&lt;/code&gt;, but &lt;strong&gt;my inbox is OPEN for any opportunities&lt;/strong&gt;. I&amp;rsquo;m always looking to be a part of something cool!&lt;/p&gt;
+&lt;p&gt;Feel free to reach out and say hello 👋&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Github&lt;/code&gt;: &lt;a href=&#34;https://github.com/tuenguyen004&#34;&gt;https://github.com/tuenguyen004&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Linkedin&lt;/code&gt;: &lt;a href=&#34;https://www.linkedin.com/in/tue-hm-nguyen/&#34;&gt;https://www.linkedin.com/in/tue-hm-nguyen/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Email Address&lt;/code&gt;: &lt;a href=&#34;mailto:tue.nguyen004@gmail.com&#34;&gt;tue.nguyen004@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Resume (in PDF)&lt;/code&gt;: &lt;a href=&#34;https://drive.google.com/file/d/1jBTHOz_wsk1-E2xdAwhxxsOVwY4u7iy_/view?usp=sharing&#34;&gt;last updated on August 2022&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Let&#39;s get in touch!&lt;/code&gt;: on &lt;a href=&#34;https://github.com/tuenguyen004&#34;&gt;Github&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/tue-hm-nguyen/&#34;&gt;Linkedin&lt;/a&gt;, or via &lt;a href=&#34;mailto:tue.nguyen004@gmail.com&#34;&gt;email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>COVID-19 Testing at Tufts University</title>
+      <link>https://tuenguyen004.github.io/projects/tts_covid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tuenguyen004.github.io/projects/tts_covid/</guid>
+      <description>During my 2nd year, I joined Tufts Technology Services (TTS) as a part-time intern to work with the university&amp;rsquo;s surveillance COVID-19 testing program. Together with six other Tufts students, we created solutions to automate the testing workflow and eliminate invalid samples. Specifically, I was leading the AutoLabel subteam and fabricated all hardware components for the team.
+&amp;raquo; How Surveillance Testing Works? Let&amp;rsquo;s first walkthrough the testing program at Tufts to see where and how our work fit in!</description>
+      <content>&lt;p&gt;During my 2nd year, I joined &lt;a href=&#34;https://coronavirus.tufts.edu/testing-at-tufts&#34;&gt;Tufts Technology Services (TTS)&lt;/a&gt; as a part-time intern to work with the university&amp;rsquo;s surveillance COVID-19 testing program. Together with six other Tufts students, we created solutions to automate the testing workflow and eliminate invalid samples. Specifically, I was leading the AutoLabel subteam and fabricated all hardware components for the team.&lt;/p&gt;
+
+  &lt;figure class=&#34;right&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/tts_covid/covid_testing_steps.png&#34;  alt=&#34;Steps for COVID Surveillance Testing at Tufts&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h4 id=&#34;-how-surveillance-testing-works&#34;&gt;&amp;raquo; How Surveillance Testing Works?&lt;/h4&gt;
+&lt;p&gt;Let&amp;rsquo;s first walkthrough the testing program at Tufts to see where and how our work fit in!&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;STEP 1:&lt;/code&gt; Begin by tapping your Tufts ID at one of the check-in stations.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;STEP 2:&lt;/code&gt; Receive swab &amp;amp; specimen tube attached with a barcode label unique to you.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;STEP 3:&lt;/code&gt; Self-collect sample from your nose and place the swabs into specimen tube.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;STEP 4:&lt;/code&gt; Give specimen tubes to staff before getting results via email within 24 hours.&lt;/p&gt;
+&lt;h4 id=&#34;-problem-statement&#34;&gt;&amp;raquo; Problem Statement&lt;/h4&gt;
+&lt;p&gt;Approximately 15% of the time, some specimen tubes led to inconclusive and failures at the lab, causing &lt;code&gt;result delays and the inconvenience of coming back the next day to retest&lt;/code&gt; for community members. We were tasked &lt;code&gt;to track down these inefficiencies&lt;/code&gt; and developed methods to improve upon the current processes.&lt;/p&gt;
+&lt;p&gt;With some time spent in the testing centers (and multiple trash bins), we found what was the ROOT CAUSE for the invalid results:  &lt;code&gt;unreadable barcodes with inconsistent placement&lt;/code&gt;. Some of them were even ripped, due to what we generalized as &amp;ldquo;human errors&amp;rdquo;.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/tts_covid/problems_found.png&#34;  alt=&#34;Problems Found&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;h4 id=&#34;-approach--methods&#34;&gt;&amp;raquo; Approach &amp;amp; Methods&lt;/h4&gt;
+&lt;p&gt;After determining many causal factors and narrowing down one root cause from the existing protocols, we discused with TTS adminstration and proposed two solutions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;Automate the label peeling and placement on specimen tubes&lt;/code&gt; (happened in Step 2)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Validate each specimen tube&#39;s readibility before sending to lab&lt;/code&gt; (happened in Step 4)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We divided ourselves into two sub-teams called AutoLabel and ImageProcessing as names for the MVPs, with me and Sam Chung &amp;lsquo;22 leading the development for each respective groups to develop customized hardware and software solutions for the existing testing workflow.&lt;/p&gt;
+&lt;h4 id=&#34;-solution-1-auto-peeling-labels&#34;&gt;&amp;raquo; Solution 1: Auto-peeling Labels!&lt;/h4&gt;
+
+  &lt;figure class=&#34;left&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/tts_covid/autopeeler_square.png&#34;  alt=&#34;Closeu-up shot of AutoPeeler&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;&lt;em&gt;AutoLabel (noun.)&lt;/em&gt; is &lt;code&gt;a two-part machine that can apply the barcode labels onto specimen tubes with better uniformity and consistency&lt;/code&gt; than they are currently being done. The design first involves an add-on module that peels one printed label. The machine will then accurately place a label onto the specimen tube and return to the user in approximately 10 seconds.&lt;/p&gt;
+&lt;p&gt;In the subteam, I designed the add-on module for peeling printed labels`` which was dubbed by my teammates as &lt;code&gt;The AutoPeeler&lt;/code&gt;, while the other two members worked on the machine to place labels automatically from &lt;em&gt;the AutoPeeler&lt;/em&gt; onto the specimen tube.&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/tts_covid/autopeeler.png&#34;  alt=&#34;The AutoPeeler&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+
+  &lt;figure class=&#34;right&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/tts_covid/iterative_design.png&#34;  alt=&#34;Iterative Design of Platform and Peeling Angles&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;The add-on module pulls the spool of blank labels over a sharp angle to automatically peel the newly-printed labels off the backing tape. To do so, I built a platform consisting of a servo-powered spool &lt;code&gt;to create and relieve tension with a bottom-facing design such that it can be placed on &amp;amp; removed from different label printer models&lt;/code&gt;. For software implementation, I used Arduino and wrote Python scripts on Linux to match the timing of existing printer.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;I also iterated through different peeling angles&lt;/code&gt; to determine the design to get the barcode labels at an optimal location for the rest of the assembly. I designed hardware components on SolidWorks and rapid-prototyped them on 3D printers in the &lt;a href=&#34;https://nolop.org/&#34;&gt;Nolop Makerspace&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Below is a video demonstration of how the AutoPeeler works!&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/DQ24KcTyxoU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&#34;-solution-2-the-magic-box&#34;&gt;&amp;raquo; Solution 2: The Magic Box!&lt;/h4&gt;
+
+  &lt;figure class=&#34;left&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/tts_covid/imageprocessing_work.png&#34;  alt=&#34;My Work for ImageProcessing&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;&lt;em&gt;ImageProcessing (noun.)&lt;/em&gt; is &lt;code&gt;a data-collecting device that captures images of all specimen tubes leaving the testing centers&lt;/code&gt;. It uses a Raspberry Pi and six high-definition cameras to detect any errors that can be intercepted and fixed before sending to the lab. To utilize this device, an additional procedure is added to Step 4. The staff will insert the specimen tube into the slot and press down onto it. A green LED and a beep sound from a buzzer will signal once images has been successfully recorded.&lt;/p&gt;
+&lt;p&gt;Since ImageProcessing was a software-focused subteam, only one member was working on the physical prototype. &lt;code&gt;So I helped with the design of the main body frame, as well fabricating wooden &amp;amp; acrylic parts on the laser-cutter!&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;-field-testing--takeaways&#34;&gt;&amp;raquo; Field-testing &amp;amp; Takeaways&lt;/h4&gt;
+&lt;p&gt;I was given the opportunity &lt;code&gt;to conduct field-testing for the AutoPeeler&lt;/code&gt; at one of the Tufts COVID-19 testing centers. While it was very exciting to see my prototype in action, I also got to &lt;code&gt;observe and identify a flaw in my design&lt;/code&gt; after a few days: many of the staffs struggled with loading a new spool of blank labels due to &lt;code&gt;the procedure not being user-friendly&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Using this observation, &lt;code&gt;I improved the fixture of the platform with self-fastening features&lt;/code&gt;, reducing the number of screws to allow for a more intuitive user experience. The next week I manufactured a few more prototypes with the improved design and received much more positive feedback from the staffs!&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/DIDVPaK9syo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;At the end of the internship, &lt;code&gt;we presented our technical work and results in front of about 150 TTS employees (on Zoom, unfortunately)&lt;/code&gt;. I was reminded again that what we had worked on is greatly important to Tufts and the communities around us, keeping everyone safe during the pandemic! I&amp;rsquo;m thankful for the opportunity to not only learn a lot about engineering in real life but also the chance to give back to my university with the skills I&amp;rsquo;m learning at Tufts!&lt;/p&gt;
 </content>
     </item>
     
@@ -93,65 +185,131 @@ Feel free to reach out and say hello! I&amp;rsquo;m always looking for new proje
     </item>
     
     <item>
-      <title>Experience Title Here</title>
-      <link>https://tuenguyen004.github.io/experience/exp1/</link>
+      <title>Soft Robotics Exosuit: Posture Categorization</title>
+      <link>https://tuenguyen004.github.io/projects/exosuit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tuenguyen004.github.io/experience/exp1/</guid>
-      <description>Write something here. Max two columns of pictures
-Remember to write closing words</description>
-      <content>&lt;p&gt;Write something here. Max two columns of pictures&lt;/p&gt;
-&lt;p&gt;
+      <guid>https://tuenguyen004.github.io/projects/exosuit/</guid>
+      <description>As part of Tufts Human Factors Lab, Soft Robotics Exosuit is a student-led research initiative designing a soft-robotics powered exoskeleton to correct sedentary postures using real-time inertial measurement unit (IMU) and electromyography (EMG) data.
+Physical Prototype of the &#39;Exosuit&#39;Joined Exosuit in late May 2020, I was a research assistant in the Motion Study Team. Over the summer, I single-handedly developed a mathematical model that categorizes different sitting postures with upper body movement and muscle activity datasets collected from the Exosuit&amp;rsquo;s physical prototype.</description>
+      <content>&lt;p&gt;As part of &lt;a href=&#34;https://sites.tufts.edu/humanfactors/2017/09/18/facilities/&#34;&gt;Tufts Human Factors Lab&lt;/a&gt;, Soft Robotics Exosuit is a student-led research initiative designing a soft-robotics powered exoskeleton to correct sedentary postures using real-time inertial measurement unit (IMU) and electromyography (EMG) data.&lt;/p&gt;
+
   &lt;figure class=&#34;right&#34;  &gt;
-    &lt;img src=&#34;https://tuenguyen004.github.io/experience/exp1/me123.jpg&#34;  alt=&#34;alternative name here!&amp;#39;&#34;   /&gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/exosuit/exosuit_physical_prototype.png&#34;  alt=&#34;Physical Prototype of the Exosuit&#34;   /&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;Physical Prototype of the &#39;Exosuit&#39;&lt;/figcaption&gt;
     
   &lt;/figure&gt;
 
 
+&lt;p&gt;Joined Exosuit in late May 2020, I was a research assistant in the Motion Study Team. Over the summer, &lt;code&gt;I single-handedly developed a mathematical model that categorizes different sitting postures&lt;/code&gt; with upper body movement and muscle activity datasets collected from the Exosuit&amp;rsquo;s physical prototype.&lt;/p&gt;
+&lt;p&gt;Continuing my work as a part-time undergraduate researcher during the school year, I proposed the team to &lt;code&gt;build a machine learning model that predicts and intentionally overfits to the user&#39;s habits, learning from movement and personalize your experience!&lt;/code&gt; The idea was developed into a companion mobile app for the Exosuit, reminding you to correct postures promptly.&lt;/p&gt;
+&lt;h4 id=&#34;-visualize-past-datasets&#34;&gt;&amp;raquo; Visualize Past Datasets&lt;/h4&gt;
+&lt;p&gt;As part of onboarding, I wrote for myself a MATLAB script visualizing the datasets captured by the Exosuit&amp;rsquo;s sensors. The script takes any .csv files and output them as 3D scatter plots. What supposedly was a &lt;code&gt;learning-on-the-job program has now became an frequently-used tool&lt;/code&gt; for the Motion Study Team to validate our usability testing sessions.&lt;/p&gt;
 
-  &lt;figure class=&#34;left&#34;  &gt;
-    &lt;img src=&#34;https://tuenguyen004.github.io/experience/exp1/me123.jpg&#34;  alt=&#34;alternative name here!&amp;#39;&#34;   /&gt;
+  &lt;figure class=&#34;center&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/exosuit/visualize_script.png&#34;   /&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;The user interface and sample outputs of my program on MATLAB&lt;/figcaption&gt;
     
   &lt;/figure&gt;
 
-&lt;/p&gt;
-&lt;p&gt;Remember to write closing words&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Project Title Here</title>
-      <link>https://tuenguyen004.github.io/projects/proj1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tuenguyen004.github.io/projects/proj1/</guid>
-      <description>Write something here.
-Links:  Project Github (sample)  Remember to write closing words</description>
-      <content>&lt;p&gt;Write something here.&lt;/p&gt;
-&lt;h4 id=&#34;links&#34;&gt;Links:&lt;/h4&gt;
+
+&lt;h4 id=&#34;-model-the-upper-torso-via-wearnotch&#34;&gt;&amp;raquo; Model the Upper Torso via Wearnotch&lt;/h4&gt;
+&lt;p&gt;With hardware prototyping postponed due to the COVID-19 pandemic, we relied on a third-party motion-capturing sensors called &lt;a href=&#34;https://wearnotch.com/&#34;&gt;Wearnotch&lt;/a&gt; in place of the Exosuit. Working remotely, I was then tasked with two main objectives:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tuenguyen004&#34;&gt;Project Github (sample)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Analyze the motion-capturing framework of Wearnotch sensors&lt;/li&gt;
+&lt;li&gt;Develop a model to recognize postures using a minimal number of Wearnotch sensors.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Remember to write closing words&lt;/p&gt;
+&lt;p&gt;I designed and conducted my own pilot studies to learn how the Wearnotch technology capture movement into .csv files. Subsequently, we deduced that &lt;code&gt;only two Wearnotch sensors were needed&lt;/code&gt; to replicate the Exosuit, defining the human&amp;rsquo;s upper torso as:&lt;/p&gt;
+
+  &lt;figure class=&#34;right&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/exosuit/wearnotch_torso_model.png&#34;   /&gt;
+    
+      &lt;figcaption class=&#34;center&#34; &gt;The proposed Exosuit model using Wearnotch sensors&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;Chest Top / Chest Bottom / Tummy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With this knowledge in mind, I proposed that siting postures can be quantified with FOUR (4) motion elements as followed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Upright&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Back Not Straight&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Slouching&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Twist and Turn&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;-upright&#34;&gt;&amp;raquo; Upright&lt;/h4&gt;
+
+  &lt;figure class=&#34;right&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/exosuit/upright.png&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;Our model defines &amp;ldquo;upright&amp;rdquo; as a central zone revolving around one&amp;rsquo;s origin in x-z space. By tracking each body part&amp;rsquo;s displacement from [0, y, 0], our model can detect that the user has left the zone and lost its uprightness. The leaving directions of each parts are recorded.&lt;/p&gt;
+&lt;h4 id=&#34;-back-not-straight&#34;&gt;&amp;raquo; Back-Not-Straight&lt;/h4&gt;
+
+  &lt;figure class=&#34;right&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/exosuit/back_not_straight.png&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;By tracking each body part&amp;rsquo;s angles relative to one another, the model determines whether one&amp;rsquo;s back is straight from both anterior (front) and lateral (side) views. When one&amp;rsquo;s back deviates from the straight position in either view, a Back-not-Straight signal is detected. If this signal remains for longer, will the signal be recorded. Else, the signal is ignored!&lt;/p&gt;
+&lt;h4 id=&#34;-slouching&#34;&gt;&amp;raquo; Slouching&lt;/h4&gt;
+
+  &lt;figure class=&#34;right&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/exosuit/slouching.png&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;We introduced a new body part into our model to accurately characterize this motion: Hip! We defined slouching occurs when both chest and hip rotate toward the front. By tracking for Chest Top&amp;rsquo;s clockwise and Hip&amp;rsquo;s counter-clockwise rotations, our model can now check for &amp;ldquo;slumpy, drooping features&amp;rdquo; of a posture.&lt;/p&gt;
+&lt;h4 id=&#34;-twisting&#34;&gt;&amp;raquo; Twisting&lt;/h4&gt;
+
+  &lt;figure class=&#34;right&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/exosuit/twistnturn.png&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;This feature is the least-common, but it&amp;rsquo;s essential to describe the posture changes associated with &amp;ldquo;twists and turns&amp;rdquo; movements. By tracking the chest&amp;rsquo;s lateral angular displacement, our model identifies any left/right rotations of the upper torso.&lt;/p&gt;
+&lt;h4 id=&#34;-key-takeaways&#34;&gt;&amp;raquo; Key Takeaways&lt;/h4&gt;
+&lt;p&gt;Over the summer, I have written multiple MATLAB and Python programs (functions, classes definitions, scripts) that helps interpret and analyze the raw IMU data captured by Exosuit. For me, the most exciting challenge was &lt;code&gt;translating the conceptual model described above into written code&lt;/code&gt;. Feel free to check out my implementation &lt;a href=&#34;https://github.com/tuenguyen004/exosuit-research&#34;&gt;here!&lt;/a&gt;&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34;  &gt;
+    &lt;img src=&#34;https://tuenguyen004.github.io/projects/exosuit/code_snippet.png&#34;   /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;As a continuation of my summer work, I am currently supporting the Exosuit&amp;rsquo;s Software Team to create a Machine Learning model for Exosuit. Our goal is to detect harmful posture changes and notify the users before they occur. More specifically, we are looking to predict the user&amp;rsquo;s posture using the acquired knowledge of habitual movements, personalizing their experience with the mobile app to help breaks any undesirable posture habits. On the side, I&amp;rsquo;m also a mentor to the current Motion Study Team, providing my expertise and inputs to our current mathematical model and for any groundwork I have done.&lt;/p&gt;
 </content>
     </item>
     
     <item>
-      <title>Skills</title>
-      <link>https://tuenguyen004.github.io/homepage/skills/</link>
+      <title>who&#39;s 2A</title>
+      <link>https://tuenguyen004.github.io/homepage/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tuenguyen004.github.io/homepage/skills/</guid>
-      <description>3D CAD modeling with SolidWorks, Fusion 360, AutoCAD, and Onshape Proficient in hardware design and fabrication using 3D printers and machine shop techniques Hardware design of PCB layouts with KiCAD C/C++ and Python for hardware applications using Arduino and Raspberry Pi Experience with electromechanical systems, particularly: IoT devices and robots. 2D vector prototyping with Figma, Inkscape, and Adobe Illsutrator  View my projects and experiences sorted by tags!</description>
-      <content>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://tuenguyen004.github.io/tags/3d-design/&#34;&gt;3D CAD modeling&lt;/a&gt; with SolidWorks, Fusion 360, AutoCAD, and Onshape&lt;/li&gt;
-&lt;li&gt;Proficient in &lt;a href=&#34;https://tuenguyen004.github.io/tags/hardware-design/&#34;&gt;hardware design&lt;/a&gt; and &lt;a href=&#34;https://tuenguyen004.github.io/tags/fabrication/&#34;&gt;fabrication&lt;/a&gt; using 3D printers and machine shop techniques&lt;/li&gt;
-&lt;li&gt;Hardware design of &lt;a href=&#34;https://tuenguyen004.github.io/tags/pcb-design/&#34;&gt;PCB layouts&lt;/a&gt; with KiCAD&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tuenguyen004.github.io/tags/c/c++/&#34;&gt;C/C++&lt;/a&gt; and &lt;a href=&#34;https://tuenguyen004.github.io/tags/python/&#34;&gt;Python&lt;/a&gt; for hardware applications using &lt;a href=&#34;https://tuenguyen004.github.io/tags/arduino/&#34;&gt;Arduino&lt;/a&gt; and &lt;a href=&#34;https://tuenguyen004.github.io/tags/raspberry-pi/&#34;&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Experience with electromechanical systems, particularly: &lt;a href=&#34;https://tuenguyen004.github.io/tags/iot-devices/&#34;&gt;IoT devices&lt;/a&gt; and &lt;a href=&#34;https://tuenguyen004.github.io/tags/robotics/&#34;&gt;robots&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tuenguyen004.github.io/tags/2d-design/&#34;&gt;2D vector prototyping&lt;/a&gt; with Figma, Inkscape, and Adobe Illsutrator&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://tuenguyen004.github.io/tags&#34;&gt;View my projects and experiences sorted by tags!&lt;/a&gt;&lt;/p&gt;
+      <guid>https://tuenguyen004.github.io/homepage/about/</guid>
+      <description>2A (noun.)
+2A, or Tue as his real first name and pronounced as &amp;quot;two-aye&amp;quot; for ease of communication, is the creator of this portfolio.
+:::::::::::::::::::: a bit more about 2A ::::::::::::::::::::
+I design robust and intuitive electromechanical systems!
+From three-pound BattleBots to a soft-robotics exoskeleton, I&amp;rsquo;m experienced in both working from scratch and modifying existed technology to create functional prototypes. Familiar with various aspects of robotics and fabrication methods, I can then turn them into dynamic and responsive systems.</description>
+      <content>&lt;p&gt;&lt;em&gt;2A (noun.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2A, or &lt;code&gt;Tue as his real first name&lt;/code&gt; and &lt;code&gt;pronounced as &amp;quot;two-aye&amp;quot;&lt;/code&gt; for ease of communication, is the creator of this portfolio.&lt;/p&gt;
+&lt;p&gt;:::::::::::::::::::: &lt;em&gt;a bit more about 2A&lt;/em&gt; ::::::::::::::::::::&lt;/p&gt;
+&lt;p&gt;I design robust and intuitive &lt;a href=&#34;https://tuenguyen004.github.io/tags/hardware/&#34;&gt;electromechanical&lt;/a&gt; systems!&lt;/p&gt;
+&lt;p&gt;From three-pound BattleBots to a soft-robotics exoskeleton, I&amp;rsquo;m experienced in both working from scratch and modifying existed technology to create functional prototypes. Familiar with various aspects of &lt;a href=&#34;https://tuenguyen004.github.io/tags/robotics/&#34;&gt;robotics&lt;/a&gt; and &lt;a href=&#34;https://tuenguyen004.github.io/tags/fabrication/&#34;&gt;fabrication&lt;/a&gt; methods, I can then turn them into dynamic and responsive systems.&lt;/p&gt;
+&lt;p&gt;And I&amp;rsquo;m not afraid to dabble in &lt;a href=&#34;https://tuenguyen004.github.io/tags/software&#34;&gt;software&lt;/a&gt;, having written code that controls hardware prototypes and even devised a mathematical model with biometric datasets.&lt;/p&gt;
+&lt;p&gt;Outside of hardware engineering, I love &lt;a href=&#34;https://tuenguyen004.github.io/tags/3d-design&#34;&gt;sketching and 3D modeling&lt;/a&gt; anything I can touch and imagine. I also educate others how to do the same, &lt;a href=&#34;https://tuenguyen004.github.io/tags/teaching/&#34;&gt;teaching K-12 students&lt;/a&gt; how to bring their project ideas into reality.&lt;/p&gt;
+&lt;p&gt;In my free time, I can be found modifying my &lt;a href=&#34;https://tuenguyen004.github.io/tags/ender3pro/&#34;&gt;Ender3Pro&lt;/a&gt; or playing board games with friends!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m passionate about solving problems through engineering and design. To me, the combination of purposeful craftsmanship and efficient workflow has the power to make the world a much better place. The opportunity to make that come to true one day is what drives me to wake up, learn, and create everyday!&lt;/p&gt;
 </content>
     </item>
     

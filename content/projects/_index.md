@@ -1,12 +1,12 @@
 +++
-title = "Projects"
+title = "Things I've built"
 date = ""
 author = "Tue"
 cover = ""
 tags = []
-keywords = ["projects", "experiements", "fun"]
+keywords = ["projects", "experiences", "fun"]
 description = ""
 showFullContent = false
 +++
 
-These are a collections of projects I have worked on over the years.
+Here are all the projects I have worked on over the years - check them out!
